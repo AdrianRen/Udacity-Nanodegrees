@@ -6,7 +6,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+Your response goes here!     
 
 HTML is not complicated, but some tags like <del> <sup> <hr> are not used ofter. Those tags took me a little bit of time to find. HTML is easy, nothing has been difficult in this part.
 
