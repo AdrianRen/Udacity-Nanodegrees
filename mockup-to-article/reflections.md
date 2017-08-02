@@ -6,6 +6,6 @@
 
 ---
 
-HTML is not complicated, but some tags like <del> <sup> <hr> are not used ofter. Those tags took me a little bit of time to find. HTML is easy, nothing has been difficult in this part.
+HTML is not complicated, but some tags like ```<del> <sup> <hr>``` are not used ofter. Those tags took me a little bit of time to find. HTML is easy, nothing has been difficult in this part.
 
 Alfred + Dash would be my suggestion to developers to find APIs or documents, very productive.  
