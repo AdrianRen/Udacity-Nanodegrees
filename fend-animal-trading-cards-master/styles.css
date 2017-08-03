@@ -1,1 +1,25 @@
 /* add your CSS here */
+body {
+  width:320px;
+}
+
+h3{
+  margin-left: 10px;
+}
+
+.center-me {
+  display: block;
+  margin: 0 auto;
+}
+
+.center-children {
+  text-align: center;
+}
+
+.container {
+  border: 1px solid #DBE2E8;
+}
+
+.inner-container {
+  border: 1px solid #DBE2E8;
+}
