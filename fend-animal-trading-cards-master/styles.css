@@ -1,6 +1,6 @@
 /* add your CSS here */
 body {
-  width:340px;
+  width: 340px;
   margin: 30px auto;
 }
 
@@ -13,7 +13,7 @@ ul{
   padding: 0;
 }
 
-span {
+.feed-me {
   font-weight: bold;
 }
 
@@ -28,12 +28,12 @@ p:first-child {
 }
 
 .container {
-  border: 1px solid #1A1A1A;
+  border: 1px solid #1a1a1a;
   box-shadow: 10px 10px 20px -1px rgba(115,115,115,1);
 }
 
 .inner-container {
-  border: 1px solid #1A1A1A;
+  border: 1px solid #1a1a1a;
   width: 278px;
   margin: 10px 0 10px 20px;
   padding: 5px 10px;
