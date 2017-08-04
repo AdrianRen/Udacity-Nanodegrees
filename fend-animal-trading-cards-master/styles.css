@@ -1,10 +1,25 @@
 /* add your CSS here */
 body {
-  width:320px;
+  width:340px;
+  margin: 30px auto;
 }
 
 h3{
-  margin-left: 10px;
+  margin-left: 20px;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+
+p:first-child {
+  font-style: italic;
 }
 
 .center-me {
@@ -12,14 +27,14 @@ h3{
   margin: 0 auto;
 }
 
-.center-children {
-  text-align: center;
-}
-
 .container {
-  border: 1px solid #DBE2E8;
+  border: 1px solid #1A1A1A;
+  box-shadow: 10px 10px 20px -1px rgba(115,115,115,1);
 }
 
 .inner-container {
-  border: 1px solid #DBE2E8;
+  border: 1px solid #1A1A1A;
+  width: 278px;
+  margin: 10px 0 10px 20px;
+  padding: 5px 10px;
 }
